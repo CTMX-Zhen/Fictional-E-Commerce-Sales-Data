@@ -1,4 +1,5 @@
 Raw databse (10000 rows)
+
 After sorted into each table - clear null and duplicate data:
 - Customers: 943 rows
 - Products: 100 unique products across various categories
